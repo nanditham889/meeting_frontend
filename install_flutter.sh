@@ -1,5 +1,0 @@
-#!/bin/bash
-# Install Flutter for Vercel
-git clone https://github.com/flutter/flutter.git -b stable
-export PATH="$PATH:$(pwd)/flutter/bin"
-flutter --version
